@@ -1,4 +1,3 @@
-# login_stepper
 
 <img src="https://github.com/yugsonani/Login_Stepper/assets/121219334/c5a76362-2278-4390-96bd-84f547d66d73" height="650px" >
 <img src="https://github.com/yugsonani/Login_Stepper/assets/121219334/086999e9-a0ff-4638-b7c8-38a86c33123a" height="650px" >
